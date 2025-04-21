@@ -1,0 +1,7 @@
+﻿NOME,TIPO,LOCALIZAÇÃO,
+"Myvm2025","Máquina virtual","West US 3"
+"Myvm2025-ip","Endereço do IP público","West US 3"
+"Myvm2025-nsg","Grupo de segurança de rede","West US 3"
+"Myvm2025-vnet","Rede virtual","West US 3"
+"myvm2025912","Adaptador de Rede","West US 3"
+"Myvm2025_OsDisk_1_95bfbfe743f044a0990378165df63b1d","Disco","West US 3"
